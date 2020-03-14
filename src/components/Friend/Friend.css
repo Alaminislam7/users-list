@@ -1,0 +1,13 @@
+.total-friends{
+    margin-top: 50px;
+    position: fixed;
+}
+.total-friends h2{
+    background-image: linear-gradient(to right, red , yellow);
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+.total-friends h2 span{
+    color: blue;
+}

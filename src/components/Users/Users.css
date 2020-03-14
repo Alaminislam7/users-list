@@ -1,0 +1,7 @@
+.users-container{
+    display: flex;
+}
+.users{
+    width: 80%;
+    margin: 30px;
+}
